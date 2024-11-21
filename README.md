@@ -16,7 +16,7 @@ _Users can add and view their favorite local restaurants, with the ability to ad
 
 ## Setup/Installation Requirements
 
-* _You will need .NET (`https://dotnet.microsoft.com/en-us/download/dotnet/6.0`) and MySQL (`https://downloads.mysql.com/archives/get/p/25/file/mysql-installer-web-community-8.0.19.0.msi`) in order to run the program._
+* _You will need [.NET](`https://dotnet.microsoft.com/en-us/download/dotnet/6.0`) and [MySQL](`https://downloads.mysql.com/archives/get/p/25/file/mysql-installer-web-community-8.0.19.0.msi`) in order to run the program._
 
 _1: Clone the repository to a folder of choice on your machine (by either using the "Code" button on the GitHub page, or in a terminal application using `git clone https://github.com/igl-myrick/BestRestaurants.Solution`)._
 
